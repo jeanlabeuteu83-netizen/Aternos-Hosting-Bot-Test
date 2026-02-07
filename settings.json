@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Test67",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "waguriismp.aternos.me",
+    "port": 58031,
     "version": "1.21.1"
   },
   "position": {
@@ -77,8 +77,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1428331206151503963/0XDeZ0WKrmU3eRm23xNvC-zTo_8aP9HrcWV580DhR0xKjpu3gJRnFIzd5y0qPG2BHqI0",
     "events": {
       "connect": true,
       "disconnect": true,
